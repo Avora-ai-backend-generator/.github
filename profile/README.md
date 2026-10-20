@@ -19,7 +19,7 @@
 
 ## ✨ What is reShapr?
 
-**reShapr** The open source, no-code MCP Server for AI-Native API Access. Designed to bridge the gap between traditional REST/GraphQL/gRPC services and Large Language Models (LLMs).
+**reShapr** is the open source runtime that turns your existing APIs AI-Native, without rebuilding them. It bridges the gap between traditional REST/GraphQL/gRPC services and Large Language Models (LLMs) by transforming them into governed, context-optimized MCP tools.
 
 In an AI-first world, your APIs need to be more than just endpoints; they need to be **discoverable, understandable, and optimized for LLM context windows.** reShapr helps you reshape your existing digital assets into a format that AI agents and applications can consume efficiently.
 
